@@ -19,9 +19,29 @@ name hashing:
 1 items
 0 -> true
 products:
-17 items
+37 items
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/entry/Entry$.class
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/entry/Entry.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$1.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$2.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$3.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11$$anonfun$apply$12.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$.class
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel.class
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2$$anonfun$apply$3.class
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2.class
@@ -38,9 +58,13 @@ products:
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2.class
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel.class
 binary dependencies:
-6 items
+10 items
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> /home/johnblazic/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/.ivy2/cache/org.clulab/processors-corenlp_2.11/jars/processors-corenlp_2.11-6.0.1.jar
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/.ivy2/cache/org.clulab/processors-main_2.11/jars/processors-main_2.11-6.0.1.jar
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /home/johnblazic/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/.ivy2/cache/org.clulab/processors-corenlp_2.11/jars/processors-corenlp_2.11-6.0.1.jar
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/.ivy2/cache/org.clulab/processors-main_2.11/jars/processors-main_2.11-6.0.1.jar
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> /home/johnblazic/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
@@ -54,7 +78,8 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-1 items
+2 items
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala
 member reference external dependencies:
 0 items
@@ -63,9 +88,29 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-17 items
+37 items
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> entry.Entry
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> entry.Entry$
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$1
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$2
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$3
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$classify$1
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$classify$1$$anonfun$apply$9
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11$$anonfun$apply$12
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$1
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$1$$anonfun$apply$1
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$2
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$2$$anonfun$apply$5
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4.NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> homework4.QLLModel
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> homework4.QLLModel$$anonfun$buildModel$1
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> homework4.QLLModel$$anonfun$buildModel$1$$anonfun$apply$2
@@ -82,25 +127,146 @@ class names:
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> homework4.QLLModel$$anonfun$buildModel$2$$anonfun$apply$9
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> homework4.QLLModel$$anonfun$buildModel$2$$anonfun$apply$9$$anonfun$apply$10
 used names:
-106 items
+225 items
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> !=
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> <init>
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> ==
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> AnyRef
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> Array
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> Entry
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> ListBuffer
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> NB
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> NBModel
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> Predef
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> QLLModel
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> QM
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> Source
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> String
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> System
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> Unit
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> apply
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> args
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> buildModel
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> classify
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> collection
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> entry
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> exit
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> homework4
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> io
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> java
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> lang
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> mutable
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> println
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> refArrayOps
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> scala
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> size
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> toString
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> train
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> &&
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> +
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> /
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> <init>
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> >=
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> AnyRef
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> Codec
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> Double
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> FastNLPProcessor
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> File
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> Int
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> Map
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> NBModel
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> Predef
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> PrintWriter
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> Source
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> String
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> System
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> Unit
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> a
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> annotate
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> apply
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> close
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> clulab
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> collection
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> contains
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> doc
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> exists
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> exit
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> f
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> fallbackSystemCodec
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> fastnlp
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> filter
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> folder
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> foreach
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> fromFile
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> getLines
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> getName
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> getNoScore
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> getYesScore
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> homework4
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> incNo
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> incNoWord
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> incYes
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> incYesWord
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> input
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> inputText
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> io
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> isDirectory
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> isFile
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> java
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> lang
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> lemmas
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> line
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> listFiles
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> lnOf2
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> log
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> log2
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> math
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> mutable
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noCount
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noCount_=
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noMap
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noScore
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noVocabSize
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noVocabSize_=
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noWordCount
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> noWordCount_=
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> nonSpamTrainFolder
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> nonspamDir
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> nonspamFileList
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> org
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> package
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> println
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> proc
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> processors
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> pw
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> refArrayOps
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> s
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> scala
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> sentences
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> spamDir
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> spamFileList
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> spamTrainFolder
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> testDir
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> testFileList
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> testFolder
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> theScore
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> toDouble
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> toList
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> toString
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> unary_!
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> update
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> wCount
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> word
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> write
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> x
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesCount
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesCount_=
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesMap
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesScore
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesVocabSize
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesVocabSize_=
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesWordCount
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> yesWordCount_=
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> $conforms
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> *
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> +
@@ -120,9 +286,7 @@ used names:
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> Md
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> Predef
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> QLLModel
-/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> Queue
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> Source
-/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> Stack
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> String
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> Tuple2
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> Unit
@@ -190,28 +354,49 @@ used names:
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> update
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> x
 product stamps:
-17 items
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/entry/Entry$.class -> lastModified(1493091355000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/entry/Entry.class -> lastModified(1493091355000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$2.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$1.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8$$anonfun$1.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$9$$anonfun$apply$10.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$9.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2.class -> lastModified(1493095774000)
-/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel.class -> lastModified(1493095774000)
+37 items
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/entry/Entry$.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/entry/Entry.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$1.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$2.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$3.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11$$anonfun$apply$12.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9$$anonfun$apply$10.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1$$anonfun$apply$9.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$classify$1.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1$$anonfun$apply$1.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$1.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2$$anonfun$apply$5.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$$anonfun$train$2.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel$.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/NBModel.class -> lastModified(1493111724000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1$$anonfun$apply$2.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$1.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$2.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$1.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8$$anonfun$1.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$5.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$9$$anonfun$apply$10.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2$$anonfun$apply$9.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel$$anonfun$buildModel$2.class -> lastModified(1493108485000)
+/home/johnblazic/Documents/CSC583/HW4/target/scala-2.11/classes/homework4/QLLModel.class -> lastModified(1493108485000)
 source stamps:
-2 items
-/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> hash(903ef826227272515064ee5f06b775f7bcc599c0)
-/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> hash(b45e22422a89d57d8502d4519f1d65e61bfb8400)
+3 items
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> hash(f60f850237292f9169c619cd675c9b6c114158e0)
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> hash(42da88199d616e1a46586be24ee95b3b15e21a5b)
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> hash(26bcbbcd536f987258364e6d535c869b96c7c828)
 binary stamps:
 4 items
 /home/johnblazic/.ivy2/cache/org.clulab/processors-corenlp_2.11/jars/processors-corenlp_2.11-6.0.1.jar -> lastModified(1478221955000)
@@ -221,25 +406,29 @@ binary stamps:
 class names:
 4 items
 /home/johnblazic/.ivy2/cache/org.clulab/processors-corenlp_2.11/jars/processors-corenlp_2.11-6.0.1.jar -> org.clulab.processors.fastnlp.FastNLPProcessor
-/home/johnblazic/.ivy2/cache/org.clulab/processors-main_2.11/jars/processors-main_2.11-6.0.1.jar -> org.clulab.processors.Sentence
-/home/johnblazic/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.io.Source$
+/home/johnblazic/.ivy2/cache/org.clulab/processors-main_2.11/jars/processors-main_2.11-6.0.1.jar -> org.clulab.processors.Processor
+/home/johnblazic/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Unit
 /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
 internal apis:
-2 items
+3 items
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCMT1/3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBdyCYl0AAZub3RpZnlzcQB+AAzoh712dAAFRW50cnlzcQB+AAy39COvdAAEd2FpdHNxAH4ADBJziJR0AA0kYXNJbnN0YW5jZU9mc3EAfgAM7cDKg3QABmVxdWFsc3NxAH4ADCUm0xl0AAxhc0luc3RhbmNlT2ZzcQB+AAx9S9acdAAMc3luY2hyb25pemVkc3EAfgAMRzVBP3QADSRpc0luc3RhbmNlT2ZzcQB+AAyzUtUbdAAEbWFpbnNxAH4ADHpMstZ0AAlub3RpZnlBbGxzcQB+AAxCayhDdAAMaXNJbnN0YW5jZU9mc3EAfgAMhsYNunQAAj09c3EAfgAMNa1YwHQABWNsb25lc3EAfgAM8+Az73QACHRvU3RyaW5nc3EAfgAMIRQI9XQAAiE9c3EAfgAMqGTQWnQACGdldENsYXNzc3EAfgAMhXj/93QAAm5lc3EAfgAM9sxlqnQAAmVxc3EAfgAMBCe+J3QAAiMjc3EAfgAMcwbZ2XQACGZpbmFsaXplc3EAfgAMF6AfBnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAC2VudHJ5LkVudHJ5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBZAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGBzcQB+AFkBdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ab1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AX3NxAH4AbnQABUFycmF5cQB+AHR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbnQABlN0cmluZ3NxAH4AcnNxAH4AdXVxAH4AeAAAAANzcQB+AHp0AARqYXZhc3EAfgB6dAAEbGFuZ3EAfgB/cHNxAH4AWQF1cQB+ADwAAAAAcHNxAH4AWQF1cQB+AJMAAAACc3EAfgBudAAGT2JqZWN0cQB+AJdzcQB+AG50AANBbnlxAH4AdHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFZW50cnlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVujLgS+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJA++CYicnJRUGTuXwa3dfe8xZnA
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCMT1/3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBdyCYl0AAZub3RpZnlzcQB+AAzoh712dAAFRW50cnlzcQB+AAy39COvdAAEd2FpdHNxAH4ADBJziJR0AA0kYXNJbnN0YW5jZU9mc3EAfgAM7cDKg3QABmVxdWFsc3NxAH4ADCUm0xl0AAxhc0luc3RhbmNlT2ZzcQB+AAx9S9acdAAMc3luY2hyb25pemVkc3EAfgAMRzVBP3QADSRpc0luc3RhbmNlT2ZzcQB+AAyzUtUbdAAEbWFpbnNxAH4ADHpMstZ0AAlub3RpZnlBbGxzcQB+AAxCayhDdAAMaXNJbnN0YW5jZU9mc3EAfgAMhsYNunQAAj09c3EAfgAMNa1YwHQABWNsb25lc3EAfgAM8+Az73QACHRvU3RyaW5nc3EAfgAMIRQI9XQAAiE9c3EAfgAMqGTQWnQACGdldENsYXNzc3EAfgAMhXj/93QAAm5lc3EAfgAM9sxlqnQAAmVxc3EAfgAMBCe+J3QAAiMjc3EAfgAMcwbZ2XQACGZpbmFsaXplc3EAfgAMF6AfBnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAC2VudHJ5LkVudHJ5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBZAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGBzcQB+AFkBdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ab1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AX3NxAH4AbnQABUFycmF5cQB+AHR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbnQABlN0cmluZ3NxAH4AcnNxAH4AdXVxAH4AeAAAAANzcQB+AHp0AARqYXZhc3EAfgB6dAAEbGFuZ3EAfgB/cHNxAH4AWQF1cQB+ADwAAAAAcHNxAH4AWQF1cQB+AJMAAAACc3EAfgBudAAGT2JqZWN0cQB+AJdzcQB+AG50AANBbnlxAH4AdHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFZW50cnlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVukM2PAdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPYPhQI3KS+RacYZzWdcm2wRQVjg
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAFnSxQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKvfvdF0AAZub3RpZnlzcQB+AAxxhV9LdAAEd2FpdHNxAH4ADOAE8ax0AAx5ZXNXb3JkQ291bnRzcQB+AAxuxgxadAANJGFzSW5zdGFuY2VPZnNxAH4ADLPOBvd0AAZlcXVhbHNzcQB+AAy4VZBTdAAGeWVzTWFwc3EAfgAMAeZ/I3QAC25vVm9jYWJTaXplc3EAfgAMNMHI0nQADGFzSW5zdGFuY2VPZnNxAH4ADJCWLCZ0AAx5ZXNWb2NhYlNpemVzcQB+AAwz1Yj9dAAMc3luY2hyb25pemVkc3EAfgAMjncvhnQAC2dldFllc1Njb3Jlc3EAfgAM/CyKJ3QACHllc0NvdW50c3EAfgAM5Vgbn3QADSRpc0luc3RhbmNlT2ZzcQB+AAyaqMQJdAAJaW5jTm9Xb3Jkc3EAfgAM1UMIunQAB25vQ291bnRzcQB+AAxdfEfsdAAFbm9NYXBzcQB+AAz07RmTdAAJbm90aWZ5QWxsc3EAfgAMWk1/k3QADGlzSW5zdGFuY2VPZnNxAH4ADBy+3JV0AAY8aW5pdD5zcQB+AAzf8r05dAALbm9Xb3JkQ291bnRzcQB+AAzftAA2dAACPT1zcQB+AAxhYPbMdAAFY2xvbmVzcQB+AAwnjeicdAAHTkJNb2RlbHNxAH4ADGsvCX50AAVpbmNOb3NxAH4ADNEhdCt0AAppbmNZZXNXb3Jkc3EAfgAMr8AopnQACHRvU3RyaW5nc3EAfgAM5y9LMXQAAiE9c3EAfgAMnL03s3QACmdldE5vU2NvcmVzcQB+AAxPF7XJdAAFdHJhaW5zcQB+AAzal0d6dAAIZ2V0Q2xhc3NzcQB+AAyeLVVbdAACbmVzcQB+AAzHpAyJdAAIY2xhc3NpZnlzcQB+AAzHZ/KgdAAGaW5jWWVzc3EAfgAMeGr1nnQAAmVxc3EAfgAM/69pR3QAAiMjc3EAfgAMdwJVvnQACGZpbmFsaXplc3EAfgAMT9qlkXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEWhvbWV3b3JrNC5OQk1vZGVsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGFMAAlpbmhlcml0ZWRxAH4AYUwAB3BhcmVudHNxAH4AYXhxAH4AgHNxAH4AeQF1cQB+AFwAAAAAcHNxAH4AeQF1cQB+AFwAAAAAcHNxAH4AeQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJlzcQB+AIx0AANBbnlzcQB+AJBzcQB+AJN1cQB+AJYAAAACc3EAfgCYdAAFc2NhbGFxAH4An3Bwc3EAfgBecQB+AGt1cQB+AGwAAAAAc3EAfgBuAHQAEWhvbWV3b3JrNC5OQk1vZGVsdXEAfgBxAAAAAH5xAH4Ac3QABk1vZHVsZXVxAH4AdwAAAABzcQB+AHkBcQB+AIFwc3EAfgB5AXNxAH4Ag3NxAH4AeQF1cQB+AFwAAAAAcHNxAH4AeQF1cQB+AFwAAAAAcHNxAH4AeQF1cQB+AIoAAAACc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYcQB+AJtzcQB+AJhxAH4AnXEAfgCfc3EAfgCMcQB+AKFzcQB+AJBzcQB+AJN1cQB+AJYAAAACc3EAfgCYcQB+AKZxAH4An3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJaG9tZXdvcms0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbpGTRp3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD8vaG9tZS9qb2huYmxhemljL0RvY3VtZW50cy9DU0M1ODMvSFc0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRC2ogZnWFuGkZYa+JO6Vs7FeIaWw==
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDr15vtAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDy2tYN0AAhRTExNb2RlbHNxAH4ADEZTsch0AAZub3RpZnlzcQB+AAyXZXMYdAAEd2FpdHNxAH4ADElxllt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMSEhvgXQABmVxdWFsc3NxAH4ADDNlP8J0AAxhc0luc3RhbmNlT2ZzcQB+AAwbwzhSdAAKYnVpbGRNb2RlbHNxAH4ADBMsrHJ0AAxzeW5jaHJvbml6ZWRzcQB+AAzczJ5YdAANJGlzSW5zdGFuY2VPZnNxAH4ADLXyr9B0AAlub3RpZnlBbGxzcQB+AAw58//odAAMaXNJbnN0YW5jZU9mc3EAfgAMgjSroHQABjxpbml0PnNxAH4ADCwNc790AAI9PXNxAH4ADO52ATF0AAVjbG9uZXNxAH4ADF20RF10AAh0b1N0cmluZ3NxAH4ADNY25QF0AAIhPXNxAH4ADBmyJrt0AAhnZXRDbGFzc3NxAH4ADDSIUul0AAJuZXNxAH4ADNA2fpl0AAJlcXNxAH4ADNu1qml0AAIjI3NxAH4ADKsolv10AAhmaW5hbGl6ZXNxAH4ADLPf7rF0AAhoYXNoQ29kZXNxAH4ADNfye890ABFjYWxjdWxhdGVXb3JkUHJvYnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJob21ld29yazQuUUxMTW9kZWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBkc3EAfgBdAXVxAH4AQAAAAABwc3EAfgBdAXVxAH4AQAAAAABwc3EAfgBdAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfXNxAH4AcHQAA0FueXNxAH4AdHNxAH4Ad3VxAH4AegAAAAJzcQB+AHx0AAVzY2FsYXEAfgCDcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlob21ld29yazRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVujcW89dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLReIkIqidV9hQLUUZ8dZeYb+4QA
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDTcYmkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDy2tYN0AAhRTExNb2RlbHNxAH4ADEZTsch0AAZub3RpZnlzcQB+AAyXZXMYdAAEd2FpdHNxAH4ADElxllt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMSEhvgXQABmVxdWFsc3NxAH4ADDNlP8J0AAxhc0luc3RhbmNlT2ZzcQB+AAwbwzhSdAAKYnVpbGRNb2RlbHNxAH4ADBMsrHJ0AAxzeW5jaHJvbml6ZWRzcQB+AAzczJ5YdAANJGlzSW5zdGFuY2VPZnNxAH4ADLXyr9B0AAlub3RpZnlBbGxzcQB+AAw58//odAAMaXNJbnN0YW5jZU9mc3EAfgAMgjSroHQABjxpbml0PnNxAH4ADCwNc790AAI9PXNxAH4ADO52ATF0AAVjbG9uZXNxAH4ADF20RF10AAh0b1N0cmluZ3NxAH4ADNY25QF0AAIhPXNxAH4ADBmyJrt0AAhnZXRDbGFzc3NxAH4ADDSIUul0AAJuZXNxAH4ADNA2fpl0AAJlcXNxAH4ADNu1qml0AAIjI3NxAH4ADKsolv10AAhmaW5hbGl6ZXNxAH4ADLPf7rF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJob21ld29yazQuUUxMTW9kZWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBic3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlob21ld29yazRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVukM2PAdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCa8u81Tb5hyWDZObVNchpuWx8go
 external apis:
 0 items
 source infos:
-2 items
+3 items
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/entry/Entry.scala -> 
+AAAAAAAAAAA=
+/home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/NBModel.scala -> 
 AAAAAAAAAAA=
 /home/johnblazic/Documents/CSC583/HW4/src/main/scala/homework4/QLLModel.scala -> 
 AAAAAAAAAAA=
 compilations:
-36 items
+49 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW51XKEZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW51esld1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW51mpFx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
@@ -276,3 +465,16 @@ compilations:
 33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6NroRZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6NwqSN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6Nxbz11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6Oaxmx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6ObQUB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6OgzLV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6OiKWF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6Oi7Yd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6QI+Fd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6QzY8B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6Q+WpJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6RMPFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6RWZgJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6ReFFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6RhLX51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6Rk0ad1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2pvaG5ibGF6aWMvRG9jdW1lbnRzL0NTQzU4My9IVzQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

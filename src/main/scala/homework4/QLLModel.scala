@@ -3,10 +3,6 @@ package homework4
 import org.clulab.processors.fastnlp.FastNLPProcessor
 import scala.io.Source
 import scala.collection.mutable.ListBuffer
-import scala.collection.mutable.Map
-import scala.collection.mutable.Stack
-import scala.collection.mutable.Queue
-
 /**
   * Created by johnblazic on 4/23/17.
   */
@@ -112,16 +108,7 @@ class QLLModel {
       for (i <- 0 until iterLen){
         println(finalList(i)._1 + ": " + finalList(i)._2.toString)
       }
-
-
-
-
     }
   }
 
-
-  def calculateWordProb(docMap:Map[String, ListBuffer[String]], countMap:Map[String,Int], word:String, totalCount:Int): Double = {
-  	val docScore = 0.0
-    docScore
-  }
 }
