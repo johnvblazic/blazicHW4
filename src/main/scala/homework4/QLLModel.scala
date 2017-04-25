@@ -25,11 +25,11 @@ class QLLModel {
       val lineSplit = line.split(":")
       val docID = lineSplit(0)
       val text = lineSplit(1)
-      println(s"Document ID: ${docID}")
+      //println(s"Document ID: ${docID}")
       val doc = proc.annotate(text)
 
       for (s <- doc.sentences) {
-        println(s"Words: ${s.words.mkString(", ")}")
+        //println(s"Words: ${s.words.mkString(", ")}")
         for (a <- s.lemmas)
           {
             for (x <- a){
@@ -59,11 +59,13 @@ class QLLModel {
       val doc = proc.annotate(line)
       //keep the scores for each document, with tuples for each word as (docScore, collectionScore)
       var docScoreMap = scala.collection.mutable.Map[String, ListBuffer[(Double,Double)]]()
+      //initialize list that will hold top 4 docs & their scores
+      var scoreList = ListBuffer[(String,Double)]()
       //loop through the words in the query
       for (s <- doc.sentences) {
         //loop through lemmas
         for (a <- s.lemmas) {
-          println(s"Query Lemmas: ${a.mkString(" ")}")
+          //println(s"Query Lemmas: ${a.mkString(" ")}")
           //doubling loop to properly access lemmas
           for (x <- a) {
             //loop through the docs in the input files
@@ -84,7 +86,34 @@ class QLLModel {
           }
         }
       }
-      //do more stuff here
+      //docScoreMap has each doc for the query and the doc and collection scores for each word stored as a tuple
+
+      for (doc <- docScoreMap.keys){
+        var Mc = 0.0
+        var Md = 0.0
+
+        for (tup <- docScoreMap(doc)){
+          Md += tup._1
+          Mc += tup._2
+        }
+
+        val docScore = ((0.5 * Md) + (0.5 * Mc))
+        //print("Doc: " + doc + " : ")
+        //println(docScore)
+
+        scoreList += ((doc,docScore))
+      }
+
+      val finalList = scoreList.sortWith(_._2 > _._2)
+
+      var iterLen = if (finalList.length > 5) 5 else finalList.length
+
+      println("For the query \"" + line + "\" the (at most) top 5 documents and their scores are:")
+      for (i <- 0 until iterLen){
+        println(finalList(i)._1 + ": " + finalList(i)._2.toString)
+      }
+
+
 
 
     }
